@@ -60,13 +60,13 @@ contoh singkatnya :
 
 1. Mawar: sisi client
 2. Dinda: sisi server
-3. Dompet: DB
+3. **Dompet: DB**
 
 > Mawar: “bro, duit lu ada berapa?”
 >
 > Dinda: “ntar dulu gua cek di dompet”
 >
-> Dompet: “2rb”
+> **Dompet: “2rb”**
 >
 > _Dinda lalu get data dari dompet, terus kasih tau ke mawar.._
 >
