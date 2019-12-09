@@ -12,7 +12,7 @@ tags: php, web
 Oke kawan-kawan, sekarang kita ada di materi mengenal environment PHP. begitulah ya..  
 jadi sebelum kawan memulai ngoding, ane jelasin dulu untuk apa kita belajar PHP? Menurut survei dari [stackoverflow,](https://insights.stackoverflow.com/survey/2018/) PHP berada di peringkat 9 dari 25 bahasa pemrograman terpopuler untuk kategori _most popular technologies_.
 
-![](https://miro.medium.com/max/795/1*PSPGpssNRDAtETP3erLQhA.png =795x612)
+![](/uploads/1_PSPGpssNRDAtETP3erLQhA.png)
 
 Itu artinya, kita masih ada harapan untuk belajar pemrograman PHP. kalau menurut saya, belajar pemrograman itu tergantung kebutuhannya untuk apa. PHP emg tertinggal karena peringkatnya 9, tapi seluruh dunia masih banyak yang menggunakan PHP sebagai pemrograman server side dan itu masih layak untuk dipelajari.
 
