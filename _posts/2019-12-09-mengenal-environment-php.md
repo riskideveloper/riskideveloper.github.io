@@ -82,7 +82,7 @@ kita pake :
 
 1\. [Visual Studio Code](https://code.visualstudio.com/) — sebagai editonya  
 2\.[ Laragon](https://laragon.org/) — sebagai webservernya  
-3\. [Browser Firefox / Chrome](https://www.mozilla.org/id/firefox/new/) — Biar kita bisa komunikasi dengan sistem, butuh tampilan..
+3\. Browser [Firefox ](https://www.mozilla.org/id/firefox/new/)/ [Chrome](https://www.google.com/intl/en/chrome/?standalone=1) — Biar kita bisa komunikasi dengan sistem, butuh tampilan..
 
 PR nya.. teman-teman install aja ketiganya.. komen kalo udah instalasi / jika terjadi kendala.
 
