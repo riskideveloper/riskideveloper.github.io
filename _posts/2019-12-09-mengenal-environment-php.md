@@ -56,20 +56,28 @@ stepnya..
 4. nah data-data yang diminta sama user kan ada ya, tersedia di **db**. maka **db** akan ngirim hasilnya ke **php**, dan **modul php** akan nyerahin hasilnya itu kepada **web server..**
 5. Nah webserver ini yang akan generate hasil tersebut dan disampaikan kepada user dalam bentukan baik HTML, CSS, JS.
 
-contoh singkatnya::  
-Mawar: sisi client  
-Dinda: sisi server  
-dompet: DB
+contoh singkatnya :
 
-Mawar: “bro, duit lu ada berapa?”;  
-dinda: “ntar dulu gua cek di dompet”;  
-Dompet: “2rb”;  
-dinda lalu get data dari dompet, terus kasih tau ke mawar..  
-Mawar: “war, cuma ada 2rb”;  
-Seketika informasi tersebut akan dijadikan pengambilan keputusan si mawar.
+1. Mawar: sisi client
+2. Dinda: sisi server
+3. Dompet: DB
 
-Berarti..  
-jika kita ingin menjalankan kode PHP, kita butuh yang namanya Editor ya..  
+> Mawar: “bro, duit lu ada berapa?”
+>
+> Dinda: “ntar dulu gua cek di dompet”
+>
+> Dompet: “2rb”
+>
+> _Dinda lalu get data dari dompet, terus kasih tau ke mawar.._
+>
+> Mawar: “war, cuma ada 2rb”;
+>
+> _Seketika informasi tersebut akan dijadikan pengambilan keputusan si mawar._
+
+Berarti..
+
+jika kita ingin menjalankan kode PHP, kita butuh yang namanya Editor ya..
+
 kita pake  
 1\. [Visual Studio Code](https://code.visualstudio.com/) — sebagai editonya  
 2\.[ Laragon](https://laragon.org/) — sebagai webservernya  
