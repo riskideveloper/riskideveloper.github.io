@@ -3,10 +3,10 @@ layout: post
 title: Mengenal environment PHP
 author: admin
 categories:
-- web programming
+- web
 - php
 image: "/uploads/1_PSPGpssNRDAtETP3erLQhA.png"
-tags: php, web
+tags: php web
 
 ---
 Oke kawan-kawan, sekarang kita ada di materi mengenal environment PHP. begitulah ya..  
