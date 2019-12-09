@@ -5,7 +5,7 @@ author: admin
 categories:
 - web
 - php
-image: "/uploads/1_PSPGpssNRDAtETP3erLQhA.png"
+image: "/uploads/demo1.jpg"
 tags: php web
 
 ---
