@@ -44,11 +44,9 @@ ada banyak Webserver seperti xampp, wamp, l**aragon**.. tapi nanti kita pake **l
 
 Sekarang.. kita harus tau bagaimana kode program php bekerja.
 
-!\[\](https://miro.medium.com/freeze/max/60/0*hV4QwQr0msvmEnqI.gif?q=20 =531x242)
+![](/uploads/0_hV4QwQr0msvmEnqI.gif)
 
-![](https://miro.medium.com/max/531/0*hV4QwQr0msvmEnqI.gif =531x242)
-
-sumber:: Gambar google
+sumber :: Gambar google
 
 stepnya..
 
@@ -83,4 +81,6 @@ buat akun medium dulu, karena informasi di medium bagus-bagus..
 
 Sekian ya :).
 
-Source : [https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef](https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef "https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef")
+Lampiran : [https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef](https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef "https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef")
+
+> **_Artikel ini hanya demo untuk percobaan blog jekyll_**
