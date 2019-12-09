@@ -44,7 +44,7 @@ ada banyak Webserver seperti xampp, wamp, l**aragon**.. tapi nanti kita pake **l
 
 Sekarang.. kita harus tau bagaimana kode program php bekerja.
 
-![](https://miro.medium.com/freeze/max/60/0*hV4QwQr0msvmEnqI.gif?q=20 =531x242)
+!\[\](https://miro.medium.com/freeze/max/60/0*hV4QwQr0msvmEnqI.gif?q=20 =531x242)
 
 ![](https://miro.medium.com/max/531/0*hV4QwQr0msvmEnqI.gif =531x242)
 
