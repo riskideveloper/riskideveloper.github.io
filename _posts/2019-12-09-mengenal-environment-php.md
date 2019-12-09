@@ -83,4 +83,4 @@ Sekian ya :).
 
 Lampiran : [https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef](https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef "https://medium.com/@alfinchandra4/mengenal-environment-php-5ffa7ebff3ef")
 
-> **_Artikel ini hanya demo untuk percobaan blog jekyll_**
+**_Artikel ini hanya demo untuk percobaan blog jekyll_**
