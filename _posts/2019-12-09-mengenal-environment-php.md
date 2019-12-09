@@ -46,7 +46,7 @@ Sekarang.. kita harus tau bagaimana kode program php bekerja.
 
 ![](/uploads/0_hV4QwQr0msvmEnqI.gif)
 
-sumber :: Gambar google
+sumber : Gambar google
 
 stepnya..
 
