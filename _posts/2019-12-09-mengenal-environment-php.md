@@ -78,7 +78,8 @@ Berarti..
 
 jika kita ingin menjalankan kode PHP, kita butuh yang namanya Editor ya..
 
-kita pake  
+kita pake :
+
 1\. [Visual Studio Code](https://code.visualstudio.com/) — sebagai editonya  
 2\.[ Laragon](https://laragon.org/) — sebagai webservernya  
 3\. [Browser Firefox / Chrome](https://www.mozilla.org/id/firefox/new/) — Biar kita bisa komunikasi dengan sistem, butuh tampilan..
