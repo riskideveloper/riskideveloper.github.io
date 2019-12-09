@@ -1,5 +1,5 @@
 # Site
-name: 'Riski Andriyanto || Blog'
+name: 'Blog'
 description: 'Blog.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -22,7 +22,7 @@ authors:
     admin:
       name:           admin
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          putra7a@gmail.com
       twitter:        https://twitter.com/andriyanto0111
@@ -30,7 +30,7 @@ authors:
     jane:
       name:           Jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
