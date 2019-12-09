@@ -6,7 +6,7 @@ categories:
 - web programming
 - php
 image: "/uploads/1_PSPGpssNRDAtETP3erLQhA.png"
-tags: php
+tags: php, web
 
 ---
 Oke kawan-kawan, sekarang kita ada di materi mengenal environment PHP. begitulah ya..  
